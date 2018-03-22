@@ -109,7 +109,7 @@ html,body{
         left: 72px;
         top: 91px;
         background: #fff;
-        overflow-y: scroll;
+ 
       }
     }
     .setting{
